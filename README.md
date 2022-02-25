@@ -1,6 +1,6 @@
 # Community detection in collaboration network
 
-- Network: Collaboration network between authors in Astro Physics category.
+- Network: [Collaboration network](https://snap.stanford.edu/data/ca-AstroPh.html#:~:text=Dataset%20information-,Dataset%20information,edge%20from%20i%20to%20j.) between authors in Astro Physics category.
 - Community detection with 2 different methods and comparison
 - Communities represent authors that are working on similar topics 
 
